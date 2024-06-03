@@ -1,0 +1,14 @@
+{
+  "name": "long-liga",
+  "module": "main.ts",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "svg-path-commander": "^2.0.9"
+  }
+}
